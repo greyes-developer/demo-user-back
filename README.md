@@ -1,4 +1,4 @@
-# Demo movies back application
+# Demo users back application
 
 ## Available Scripts for running server
 
